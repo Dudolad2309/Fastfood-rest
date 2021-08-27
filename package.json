@@ -5,6 +5,8 @@
   "dependencies": {
     "autoprefixer-stylus": "^1.0.0",
     "firebase": "8.6.8",
+    "netlify": "^8.0.0",
+    "netlify-cli": "^6.7.6",
     "prop-types": "^15.7.2",
     "re-base": "^4.0.0",
     "react": "^16.10.2",
