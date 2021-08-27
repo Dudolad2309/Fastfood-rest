@@ -8,9 +8,6 @@ const firebaseApp = firebase.initializeApp({
 	authDomain: "burger-42275.firebaseapp.com",
 	databaseURL: "https://burger-42275-default-rtdb.europe-west1.firebasedatabase.app",
 });
-
 const base = Rebase.createClass(firebaseApp.database());
-
 export {firebaseApp};
-
 export default base;
